@@ -1,7 +1,7 @@
 # 📊 Business & Data Analytics Portfolio  
 
 <p align="center">
-  <img src="./[what-is-data-analytics-mads.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinedegrees.sandiego.edu%2Fwhat-is-data-analytics%2F&psig=AOvVaw1RTfV8eRd4ffExxyi3kATp&ust=1757623204207000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjE1umGz48DFQAAAAAdAAAAABAE)" width="800"/>
+ <img src="https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/11/what-is-data-analytics-mads.jpg" alt="Imagen de Data Analytics">
 </p>
 
 Welcome! 👋  
