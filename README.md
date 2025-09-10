@@ -1,5 +1,9 @@
 # 📊 Business & Data Analytics Portfolio  
 
+<p align="center">
+  <img src="./what-is-data-analytics-mads.jpg" width="800"/>
+</p>
+
 Welcome! 👋  
 This repository showcases my portfolio of projects in **Business Analytics, Data Analysis, and Machine Learning**.  
 With a background in **Financial Administration** and a postgraduate program in **Business Analytics**, I enjoy turning raw data into insights that drive smarter business decisions.  
